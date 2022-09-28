@@ -1,2 +1,2 @@
-# .github
+# DRNTC
 Archived for legal reasons.
